@@ -15,7 +15,7 @@ $('.slider').slider();
 <script src="js/jquery.cross2.js"></script>
 <script src="Custom.js"></script>
 <script src="js/new_image_slider.js"></script>
-<script src="js/toArrayFil.js"></script>
+<script src="js/toArrayFilter.js"></script>
 
 </body>
 </html>
