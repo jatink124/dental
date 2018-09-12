@@ -1,0 +1,42 @@
+
+/*block quote*/
+blockquote{
+    border-left:none
+}
+.goals {
+    background-color: lime;
+}
+.quote-badge{
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.quote-box {
+    overflow: hidden;
+    margin-top: -50px;
+    padding-top: -100px;
+    border-radius: 17px;
+    background-color: #4ADFCC;
+    margin-top: 25px;
+    color: white;
+    width: 1325px;
+    box-shadow: 2px 2px 2px 2px #E0E0E0;
+    height: 200px;
+    margin-left: -190px;
+}
+
+.quotation-mark{
+
+    margin-top: 10px;
+    font-weight: bold;
+    font-size:100px;
+    color:white;
+    font-family: "Times New Roman", Georgia, Serif;
+
+}
+
+.quote-text{
+
+    font-size: 19px;
+    margin-top: -25px;
+}
+/*block quote*/
