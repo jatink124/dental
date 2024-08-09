@@ -6,13 +6,32 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
-  <loc>http://excellencedental.in/</loc>
+  <loc>https://www.excellencedental.in/</loc>
+  <lastmod>2024-08-09T13:41:49+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://excellencedental.in/index.php</loc>
+  <loc>https://www.excellencedental.in/about</loc>
+  <lastmod>2024-08-09T13:41:49+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://excellencedental.in/about.php</loc>
+  <loc>https://www.excellencedental.in/service</loc>
+  <lastmod>2024-08-09T13:41:49+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://www.excellencedental.in/gallery</loc>
+  <lastmod>2024-08-09T13:41:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.excellencedental.in/contact</loc>
+  <lastmod>2024-08-09T13:41:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
